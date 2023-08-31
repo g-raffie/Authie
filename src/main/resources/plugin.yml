@@ -1,0 +1,8 @@
+name: Authie
+version: '${version}'
+main: org.graffie.authie.Authie
+api-version: '1.20'
+commands:
+  authie:
+    usage: /<command> [args]
+    description: Authie command

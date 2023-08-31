@@ -1,0 +1,4 @@
+messages:
+  granted-perm: "Staff perms granted.!"
+  denied-perm: "Permission denied!"
+  remove-perm-command: "You have removed staff perms from yourself"
